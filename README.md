@@ -14,7 +14,7 @@ A simple quiz application built with HTML, CSS, and JavaScript.
 
  ## Live View
 
-You can try the Quiz App live [here](https://quiz-simpl3-app.netlify.app/)). 
+You can try the Quiz App live [here](https://quiz-simpl3-app.netlify.app/) 👈. 
 
 ## Description
 
